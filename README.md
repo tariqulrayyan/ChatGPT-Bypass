@@ -4,7 +4,7 @@ Simple Scripts that allows you to bypass content filtering. This calls the OpenA
 
 <b> Youtube Video </b>
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/4caOdVqs0tU/0.jpg)](http://www.youtube.com/watch?v=4caOdVqs0tU "Secret Bypass for ChatGPT Filters")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/4caOdVqs0tU/0.jpg)](https://player.vimeo.com/video/802132226?h=ea4e593593"Secret Bypass for ChatGPT Filters")
 
 <!-- Requirements -->
 
